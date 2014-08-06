@@ -1,0 +1,20 @@
+{
+    "description": "A directive providing a size selector component.",
+    "homepage": "https://github.com/BrownPaperBag/size-selector",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "keywords": [
+        "Require",
+        "Model",
+        "AngularJS"
+    ],
+    "license": "MIT",
+    "main": "js/size-selector.js",
+    "name": "size-selector",
+    "version": "0.0.1"
+}
